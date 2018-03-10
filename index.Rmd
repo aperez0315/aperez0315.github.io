@@ -5,3 +5,5 @@ title: "My Website"
 Hello, Website!
 
 Hi Darrell! This is my first go at a free website!
+
+![Getting ready to head out for our Marathon!](images/Darrell_Adrian_MCM.jpg) 
