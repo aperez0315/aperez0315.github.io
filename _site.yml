@@ -1,7 +1,7 @@
 name: "my-website"
 output_dir: "."
 navbar:
-  title: "My Website"
+  title: "Adrian Perez"
   left:
     - text: "Home"
       icon: fa-home
@@ -11,7 +11,7 @@ navbar:
       href: about.html
 output:
   html_document:
-    theme: cosmo
+    theme: journal
     highlight: textmate
     include:
       after_body: footer.html

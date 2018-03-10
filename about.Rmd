@@ -3,3 +3,29 @@ title: "About This Website"
 ---
 
 More about this website.
+
+<style>
+  .col2 {
+    columns: 2 200px;         /* number of columns and width in pixels*/
+    -webkit-columns: 2 200px; /* chrome, safari */
+    -moz-columns: 2 200px;    /* firefox */
+  }
+</style>
+ 
+
+<div class="col2">
+**First Column**
+
+- note `<div class="col2">` and `</div>`
+- what beautiful bullet points
+<br>
+<br>
+
+**Second Column**
+
+- I have 3 bullet points here
+- which means to align with the left column
+- I added a `<br>` there
+</div>
+
+<br>
