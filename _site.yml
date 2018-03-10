@@ -2,7 +2,7 @@ name: "my-website"
 output_dir: "."
 navbar:
   title: "Adrian Perez"
-  left:
+  right:
     - text: "Home"
       icon: fa-home
       href: home.html
